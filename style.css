@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body {
+width: 100vw;
+height: 100vh;
+ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image:url(https://tse4.mm.bing.net/th/id/OIP.ar4Iqk4Cjg9kMVh2VbdYCAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+}
+.container {
+    width: 400px;
+    height:500px ;
+
+    background-color: lab(65.56% 27.17 65.83 / 0.411);
+
+
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
